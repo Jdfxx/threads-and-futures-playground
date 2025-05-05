@@ -80,10 +80,10 @@ public class CompletableFuturesPlay {
         // exampleTimeout().join();
         
         // Example of Asynchronous HTTP
-        // exampleAsyncHttp().join();
+         exampleAsyncHttp().join();
         
         // Example of Asynchronous File Read
-        exampleAsyncFileRead().join();
+       // exampleAsyncFileRead().join();
 
             
         long end = System.currentTimeMillis();
