@@ -29,10 +29,10 @@ public class CompletableFuturesPlay {
         long start = System.currentTimeMillis();
 
         // Example of CompletableFuture.runAsync
-        // exampleRunAsync();
+        exampleRunAsync();
         
         // Example of CompletableFuture.supplyAsync
-        // exampleSupplyAsync();
+        exampleSupplyAsync();
         
         // Example of Simple CompletableFuture Pipeline
         // examplePipeline().join();
